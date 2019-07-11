@@ -8,5 +8,5 @@ vue-antishake使用方法：
     Vue.use(vueAntiShake)
 (3):使用方法：
     <button v-preventReClick:"alertMessage"="time">防抖按钮</button>
-    
+# 参数说明
     参数说明:任何组件中都可以使用v-preventReClick指令添加防抖方法，绑定值time可以是任意秒，默认点击间隔时间 time=3000,表示防抖点击间隔为3s，如果点击间隔小于time提示alertMessage，默认alertMessage=“请不要连读点击!”
