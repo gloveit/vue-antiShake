@@ -1,20 +1,4 @@
 # vue-antishake
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-### Customize configuration
 vue-antishake使用方法：
 (1):第一步按顺序安装依赖 ant-design-vue vue-antishake
     npm i ant-design-vue --save
